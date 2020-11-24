@@ -1,0 +1,9 @@
+name: OreChat
+version: 1.0.0
+main: me.majekdor.partychat.PartyChat
+api-version: 1.16
+authors: [ Majekdor ]
+description: Easily chat among your friends in a party without any commands.
+website: https://github.com/Majekdor/PartyChat
+softdepend: [PlaceholderAPI, Essentials, LiteBans, AdvancedBan]
+commands:
